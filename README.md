@@ -3,10 +3,16 @@
 ## Як запустити тести
 
 1. Встановлення npm:
+   ```
    npm install
+   ```
 
-2. Встановлення Vitest:
+3. Встановлення Vitest:
+   ```
    npm install --save-dev vitest
+   ```
 
-3. Запуск тестів:
+5. Запуск тестів:
+   ```
    npm run test:vitest
+   ```
